@@ -9,8 +9,7 @@ const App = () => {
   return (
     <div className='App'>
       <header className='App-header'>
-        <img src={logo} className='App-logo' alt='logo' />
-        <h1 className='App-title'>Welcome to the BeREEL</h1>
+        <h1 className='App-title'>Welcome to BeREEL</h1>
         <Link className='showlink' to='/shows'>
           Shows
         </Link>
